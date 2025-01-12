@@ -1,0 +1,5 @@
+nlp_deep_learning_approach/input/crawl-300d-2M.vec
+nlp_bert/input/crawl-300d-2M.vec
+nlp/input/crawl-300d-2M.vec
+nlp_bert/models/model.bin
+first_demo/models/dt_0.bin
