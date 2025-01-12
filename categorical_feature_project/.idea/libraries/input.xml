@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="input">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/input/test.csv.zip!/" />
+      <root url="jar://$PROJECT_DIR$/input/sample_submission.csv.zip!/" />
+      <root url="jar://$PROJECT_DIR$/input/train.csv.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
